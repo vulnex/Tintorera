@@ -1,3 +1,5 @@
+> ⚠️ Discontinued project, no longer maintained. Source code intelligence tool (2017). See [github.com/vulnex](https://github.com/vulnex) for current tools.
+
 # Tintorera
 
 TINTORERA
